@@ -24,22 +24,24 @@
 ## 📚 What I'm Learning
 
 - 🧠 **GenAI Pinnacle Plus Program (Analytics Vidhya, Summer 2025)**  
-  Currently mastering advanced AI concepts through a 300+ hour intensive program  
+  Currently mastering advanced AI through a 300+ hour intensive program  
   Focused on:
   - Generative AI and Agentic AI systems  
   - Building LLMs (like ChatGPT) and RAG-based applications  
-  - Developing AI Agents with LangChain, AutoGen, and CrewAI  
-  - Fine-tuning models using PEFT, DreamBooth, ControlNet  
-  - End-to-end deployment of GenAI apps with LangGraph and Streamlit  
-  Includes 50+ industry-relevant projects and 75+ live mentorship sessions
+  - Developing AI Agents using LangChain, AutoGen, CrewAI, and LangGraph  
+  - Fine-tuning and training models with **TensorFlow**, PEFT, DreamBooth, and ControlNet  
+  - Full-stack GenAI app development and deployment with Streamlit and other tools  
+  Includes **50+ industry-relevant projects** and **capstone projects progressing from beginner to advanced** — covering real-world problem solving across domains
 
 - 🎓 **Coursera AI/ML Specializations**  
   - Machine Learning – Stanford University  
   - Convolutional Neural Networks – DeepLearning.AI  
-  - Advanced Learning Algorithms and more
+  - Advanced Learning Algorithms and Prompt Engineering  
+  - Deep Learning using **TensorFlow and PyTorch**
 
-- 📈 Quantitative Finance & Option Pricing with Python (QuantLib)  
-- 💡 Exploring Agentic AI, AWS SageMaker, and TensorFlow workflows
+- 💹 **Quantitative Finance & Option Pricing**  
+  - Exploring QuantLib for algorithmic trading  
+  - Python-driven modeling for options and financial instruments
 
 ---
 
