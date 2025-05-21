@@ -24,7 +24,15 @@
 ## 📚 What I'm Learning
 
 - 🧠 **Analytics Vidhya Pinnacle Plus Program (Summer 2025)**  
-  Deep dive into AI/ML, predictive analytics, and real-world case studies
+- 🧠 **GenAI Pinnacle Plus Program (Analytics Vidhya, Summer 2025)**  
+  Currently mastering advanced AI concepts through a 300+ hour intensive program  
+  Focused on:
+  - Generative AI and Agentic AI systems  
+  - Building LLMs (like ChatGPT) and RAG-based applications  
+  - Developing AI Agents with LangChain, AutoGen, and CrewAI  
+  - Fine-tuning models using PEFT, DreamBooth, ControlNet  
+  - End-to-end deployment of GenAI apps with LangGraph and Streamlit  
+  Includes 50+ industry-relevant projects and 75+ live mentorship sessions
 
 - 🎓 **Coursera AI/ML Specializations**  
   - Machine Learning – Stanford University  
