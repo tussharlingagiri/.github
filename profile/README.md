@@ -23,7 +23,6 @@
 
 ## 📚 What I'm Learning
 
-- 🧠 **Analytics Vidhya Pinnacle Plus Program (Summer 2025)**  
 - 🧠 **GenAI Pinnacle Plus Program (Analytics Vidhya, Summer 2025)**  
   Currently mastering advanced AI concepts through a 300+ hour intensive program  
   Focused on:
