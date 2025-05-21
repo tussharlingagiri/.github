@@ -29,7 +29,7 @@
   - Generative AI and Agentic AI systems  
   - Building LLMs (like ChatGPT) and RAG-based applications  
   - Developing AI Agents using LangChain, AutoGen, CrewAI, and LangGraph  
-  - Fine-tuning and training models with **TensorFlow**, PEFT, DreamBooth, and ControlNet  
+  - Fine-tuning and training models with TensorFlow, PEFT, DreamBooth, and ControlNet  
   - Full-stack GenAI app development and deployment with Streamlit and other tools  
   Includes **50+ industry-relevant projects** and **capstone projects progressing from beginner to advanced** — covering real-world problem solving across domains
 
