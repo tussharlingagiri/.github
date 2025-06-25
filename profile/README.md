@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tusshar Lingagiri
 
-🎓 2nd-Year Software Engineering & Electronics Student  
+🎓 3rd-Year Software Engineering & Electronics Student  
 📍 University of Glasgow | James Watt School of Engineering  
 🧠 Passionate about AI/ML, Quantum Cryptography, Blockchain, and Fintech
 
