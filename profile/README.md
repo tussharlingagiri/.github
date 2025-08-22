@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tusshar Lingagiri  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![Open To Work](https://img.shields.io/badge/Open%20to-ML/AI%20Internships-brightgreen?style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![Open To Work](https://img.shields.io/badge/Open%20to-AI/ML%20Internships-brightgreen?style=for-the-badge)  
 
 🎓 3rd-Year Software Engineering & Electronics Student  
 📍 University of Glasgow | James Watt School of Engineering  
